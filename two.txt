@@ -1,0 +1,17 @@
+new branch 'feature_two'
+
+master
+  |
+  |
+   ---> development
+  |	  |
+  |	  |
+  |	   ---> feature_one
+  |	  |
+  |	  |
+  |	   ---> feature_two
+  |
+  |
+  |
+   ---> todo
+  
