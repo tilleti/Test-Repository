@@ -1,0 +1,12 @@
+this branch 'todo' is also for test purposes.
+
+supposedly it contains a list of all to do items
+i.e. future projects/project ideas/etc..
+
+master
+  |
+  |
+   ----> development
+  |
+  |
+   ----> todo
